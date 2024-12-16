@@ -1,3 +1,9 @@
 body {
     background-color: rgb(244, 66, 95);
 }
+
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
